@@ -1,6 +1,3 @@
-// TODO: remove this when you're done with your implementation.
-#![allow(unused_variables, dead_code)]
-
 pub fn luhn(cc_number: &str) -> bool {
 
     let mut no_of_chars = 0;
